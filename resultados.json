@@ -1,0 +1,423 @@
+{
+  "metricas_A": [
+    {
+      "k": 2,
+      "inercia": 58039.40339125617,
+      "silhueta": 0.19991650898733085,
+      "menor_grupo": 884
+    },
+    {
+      "k": 3,
+      "inercia": 54353.07823255234,
+      "silhueta": 0.1322443934824314,
+      "menor_grupo": 547
+    },
+    {
+      "k": 4,
+      "inercia": 51784.99106669799,
+      "silhueta": 0.13438192357260267,
+      "menor_grupo": 170
+    },
+    {
+      "k": 5,
+      "inercia": 49641.15523278882,
+      "silhueta": 0.14069212336181008,
+      "menor_grupo": 21
+    },
+    {
+      "k": 6,
+      "inercia": 48207.3005603078,
+      "silhueta": 0.08764607718211971,
+      "menor_grupo": 30
+    },
+    {
+      "k": 7,
+      "inercia": 46506.125227347526,
+      "silhueta": 0.09133589548517823,
+      "menor_grupo": 30
+    },
+    {
+      "k": 8,
+      "inercia": 44408.22291022729,
+      "silhueta": 0.14479552036231147,
+      "menor_grupo": 21
+    }
+  ],
+  "metricas_B": [
+    {
+      "k": 2,
+      "inercia": 29534.017708370386,
+      "silhueta": 0.2678984020018243,
+      "menor_grupo": 927
+    },
+    {
+      "k": 3,
+      "inercia": 26228.578266517186,
+      "silhueta": 0.20198563407169326,
+      "menor_grupo": 595
+    },
+    {
+      "k": 4,
+      "inercia": 24764.866074383615,
+      "silhueta": 0.13193982353420422,
+      "menor_grupo": 531
+    },
+    {
+      "k": 5,
+      "inercia": 23722.71334468584,
+      "silhueta": 0.12410233688722039,
+      "menor_grupo": 292
+    },
+    {
+      "k": 6,
+      "inercia": 22758.110824266776,
+      "silhueta": 0.1251175092063324,
+      "menor_grupo": 204
+    },
+    {
+      "k": 7,
+      "inercia": 22063.70589017427,
+      "silhueta": 0.11625263998295406,
+      "menor_grupo": 182
+    },
+    {
+      "k": 8,
+      "inercia": 21485.395149080712,
+      "silhueta": 0.11722686717930869,
+      "menor_grupo": 167
+    }
+  ],
+  "perfil": [
+    {
+      "Segmento": 0,
+      "renda_media": 76425.6218487395,
+      "idade_media": 45.67226890756302,
+      "filhos_medios": 0.2218487394957983,
+      "gasto_total_medio": 1351.2302521008403,
+      "vinhos_medios": 583.7042016806722,
+      "compras_site": 5.223529411764706,
+      "compras_catalogo": 5.929411764705883,
+      "compras_loja": 8.418487394957983,
+      "compras_desconto": 1.322689075630252,
+      "visitas_site": 2.8117647058823527,
+      "aceitou_campanha_pct": 47.39495798319328,
+      "clientes": 595
+    },
+    {
+      "Segmento": 1,
+      "renda_media": 35103.826107899804,
+      "idade_media": 42.30250481695568,
+      "filhos_medios": 1.23121387283237,
+      "gasto_total_medio": 98.04816955684008,
+      "vinhos_medios": 42.07514450867052,
+      "compras_site": 2.111753371868979,
+      "compras_catalogo": 0.5549132947976878,
+      "compras_loja": 3.2167630057803467,
+      "compras_desconto": 2.0260115606936417,
+      "visitas_site": 6.4393063583815024,
+      "aceitou_campanha_pct": 14.547206165703276,
+      "clientes": 1038
+    },
+    {
+      "Segmento": 2,
+      "renda_media": 57828.74546952224,
+      "idade_media": 49.67051070840198,
+      "filhos_medios": 1.1845140032948929,
+      "gasto_total_medio": 743.3805601317957,
+      "vinhos_medios": 477.49258649093906,
+      "compras_site": 6.342668863261944,
+      "compras_catalogo": 3.062602965403624,
+      "compras_loja": 7.614497528830313,
+      "compras_desconto": 3.8187808896210873,
+      "visitas_site": 5.85172981878089,
+      "aceitou_campanha_pct": 28.99505766062603,
+      "clientes": 607
+    }
+  ],
+  "nomes": {
+    "1": "Econômicos de baixo consumo",
+    "2": "Intermediários multicanal",
+    "0": "Premium de alto consumo"
+  },
+  "eps": 3.611685560352277,
+  "min_samples": 15,
+  "ruido_n": 67,
+  "atipicos": [
+    {
+      "ID": 11004,
+      "Year_Birth": 1893,
+      "Income": 60182.0
+    },
+    {
+      "ID": 1150,
+      "Year_Birth": 1899,
+      "Income": 83532.0
+    },
+    {
+      "ID": 7829,
+      "Year_Birth": 1900,
+      "Income": 36640.0
+    },
+    {
+      "ID": 9930,
+      "Year_Birth": 1944,
+      "Income": 82716.0
+    },
+    {
+      "ID": 4619,
+      "Year_Birth": 1945,
+      "Income": 113734.0
+    }
+  ],
+  "rendas_altas": [
+    {
+      "ID": 9432,
+      "Year_Birth": 1977,
+      "Income": 666666.0
+    },
+    {
+      "ID": 1503,
+      "Year_Birth": 1976,
+      "Income": 162397.0
+    },
+    {
+      "ID": 1501,
+      "Year_Birth": 1982,
+      "Income": 160803.0
+    },
+    {
+      "ID": 5336,
+      "Year_Birth": 1971,
+      "Income": 157733.0
+    },
+    {
+      "ID": 8475,
+      "Year_Birth": 1973,
+      "Income": 157243.0
+    }
+  ],
+  "sem_ruido": [
+    {
+      "k": 2,
+      "inercia": 27735.209073192964,
+      "silhueta": 0.279238200185129,
+      "menor_grupo": 881
+    },
+    {
+      "k": 3,
+      "inercia": 24171.91685451801,
+      "silhueta": 0.215014011628207,
+      "menor_grupo": 561
+    },
+    {
+      "k": 4,
+      "inercia": 22689.83666741853,
+      "silhueta": 0.14124931372370791,
+      "menor_grupo": 521
+    },
+    {
+      "k": 5,
+      "inercia": 21617.927968418746,
+      "silhueta": 0.13321583015323035,
+      "menor_grupo": 228
+    },
+    {
+      "k": 6,
+      "inercia": 20720.752342433243,
+      "silhueta": 0.13003718188810837,
+      "menor_grupo": 203
+    },
+    {
+      "k": 7,
+      "inercia": 20036.37588821681,
+      "silhueta": 0.1198144485655523,
+      "menor_grupo": 190
+    },
+    {
+      "k": 8,
+      "inercia": 19452.24271619953,
+      "silhueta": 0.12124507545600606,
+      "menor_grupo": 169
+    }
+  ],
+  "reduzido": [
+    {
+      "k": 2,
+      "inercia": 8001.780016253651,
+      "silhueta": 0.37369396015960055,
+      "menor_grupo": 964
+    },
+    {
+      "k": 3,
+      "inercia": 6868.698049640302,
+      "silhueta": 0.2768108628480851,
+      "menor_grupo": 667
+    },
+    {
+      "k": 4,
+      "inercia": 5897.347366006628,
+      "silhueta": 0.2619919501584704,
+      "menor_grupo": 485
+    },
+    {
+      "k": 5,
+      "inercia": 5333.508150481864,
+      "silhueta": 0.26436782565066,
+      "menor_grupo": 1
+    },
+    {
+      "k": 6,
+      "inercia": 4801.948923413428,
+      "silhueta": 0.2613589588744281,
+      "menor_grupo": 1
+    },
+    {
+      "k": 7,
+      "inercia": 4300.521015450348,
+      "silhueta": 0.27359881726946034,
+      "menor_grupo": 1
+    },
+    {
+      "k": 8,
+      "inercia": 4057.8699648886363,
+      "silhueta": 0.2627415335458371,
+      "menor_grupo": 1
+    }
+  ],
+  "perfil_sem_ruido": [
+    {
+      "Segmento": 0,
+      "renda_media": 75149.39393939394,
+      "idade_media": 46.0427807486631,
+      "filhos_medios": 0.21390374331550802,
+      "gasto_total_medio": 1343.288770053476,
+      "vinhos_medios": 591.6720142602495,
+      "compras_site": 5.144385026737968,
+      "compras_catalogo": 5.803921568627451,
+      "compras_loja": 8.522281639928698,
+      "compras_desconto": 1.2299465240641712,
+      "visitas_site": 2.7415329768270946,
+      "aceitou_campanha_pct": 47.23707664884135,
+      "clientes": 561
+    },
+    {
+      "Segmento": 1,
+      "renda_media": 34409.66284860558,
+      "idade_media": 42.026892430278885,
+      "filhos_medios": 1.2300796812749004,
+      "gasto_total_medio": 94.16135458167331,
+      "vinhos_medios": 39.39442231075697,
+      "compras_site": 2.0866533864541834,
+      "compras_catalogo": 0.5378486055776892,
+      "compras_loja": 3.2051792828685257,
+      "compras_desconto": 1.9641434262948207,
+      "visitas_site": 6.405378486055777,
+      "aceitou_campanha_pct": 14.342629482071713,
+      "clientes": 1004
+    },
+    {
+      "Segmento": 2,
+      "renda_media": 57302.24259868421,
+      "idade_media": 49.723684210526315,
+      "filhos_medios": 1.1957236842105263,
+      "gasto_total_medio": 709.9078947368421,
+      "vinhos_medios": 457.46217105263156,
+      "compras_site": 6.217105263157895,
+      "compras_catalogo": 2.9720394736842106,
+      "compras_loja": 7.542763157894737,
+      "compras_desconto": 3.825657894736842,
+      "visitas_site": 5.8832236842105265,
+      "aceitou_campanha_pct": 28.289473684210527,
+      "clientes": 608
+    }
+  ],
+  "perfil_k4": [
+    {
+      "Segmento": 0,
+      "renda_media": 29655.258974358974,
+      "idade_media": 35.92136752136752,
+      "filhos_medios": 0.8803418803418803,
+      "gasto_total_medio": 100.0051282051282,
+      "vinhos_medios": 33.23418803418804,
+      "compras_site": 2.2427350427350428,
+      "compras_catalogo": 0.5111111111111111,
+      "compras_loja": 3.1264957264957265,
+      "compras_desconto": 1.917948717948718,
+      "visitas_site": 6.955555555555556,
+      "aceitou_campanha_pct": 16.752136752136753,
+      "clientes": 585
+    },
+    {
+      "Segmento": 1,
+      "renda_media": 58843.3687150838,
+      "idade_media": 49.225325884543764,
+      "filhos_medios": 1.1247672253258845,
+      "gasto_total_medio": 812.1731843575419,
+      "vinhos_medios": 522.4506517690875,
+      "compras_site": 6.592178770949721,
+      "compras_catalogo": 3.303538175046555,
+      "compras_loja": 7.98510242085661,
+      "compras_desconto": 3.7783985102420856,
+      "visitas_site": 5.82122905027933,
+      "aceitou_campanha_pct": 30.540037243947857,
+      "clientes": 537
+    },
+    {
+      "Segmento": 2,
+      "renda_media": 43599.39359698682,
+      "idade_media": 50.888888888888886,
+      "filhos_medios": 1.670433145009416,
+      "gasto_total_medio": 129.06591337099812,
+      "vinhos_medios": 73.95291902071563,
+      "compras_site": 2.3502824858757063,
+      "compras_catalogo": 0.7645951035781544,
+      "compras_loja": 3.6271186440677967,
+      "compras_desconto": 2.4237288135593222,
+      "visitas_site": 5.790960451977401,
+      "aceitou_campanha_pct": 12.8060263653484,
+      "clientes": 531
+    },
+    {
+      "Segmento": 3,
+      "renda_media": 76515.45400340715,
+      "idade_media": 45.59625212947189,
+      "filhos_medios": 0.20954003407155025,
+      "gasto_total_medio": 1352.3236797274276,
+      "vinhos_medios": 581.855195911414,
+      "compras_site": 5.195911413969336,
+      "compras_catalogo": 5.93526405451448,
+      "compras_loja": 8.393526405451448,
+      "compras_desconto": 1.31175468483816,
+      "visitas_site": 2.7921635434412266,
+      "aceitou_campanha_pct": 47.52981260647359,
+      "clientes": 587
+    }
+  ],
+  "cruzamento": {
+    "0": {
+      "0": 0,
+      "1": 580,
+      "2": 5
+    },
+    "1": {
+      "0": 9,
+      "1": 0,
+      "2": 528
+    },
+    "2": {
+      "0": 0,
+      "1": 457,
+      "2": 74
+    },
+    "3": {
+      "0": 586,
+      "1": 1,
+      "2": 0
+    }
+  },
+  "mediana_renda": 51381.5,
+  "media_renda": 52247.25135379061,
+  "assimetria_renda": 6.763487372811117,
+  "colunas_A": 31,
+  "colunas_B": 18
+}
